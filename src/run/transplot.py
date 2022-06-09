@@ -1,3 +1,4 @@
+#!/usr/bin/python
 from ribotish.zbio import ribo, plot, bam, io, orf, tools, fa
 from os.path import isfile
 
